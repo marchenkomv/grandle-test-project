@@ -1,0 +1,4 @@
+rootProject.name = 'grandle-test-project'
+include 'db'
+include 'service'
+include ':api'
